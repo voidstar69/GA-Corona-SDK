@@ -1,4 +1,3 @@
-Corona-Wrapper
-==============
+GameAnalytics SDK for Corona
+============================
 
-Corona SDK wrapper for the GameAnalytics REST API
